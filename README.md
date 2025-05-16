@@ -19,9 +19,12 @@ A cloud-based code compiler that allows users to write, compile, and run code di
 
 ## 📸 Screenshots
 
-
-![Editor Screenshot](./screenshots/editor.png)
-![Live Collaboration](./screenshots/collab.gif)
+## 📸 Joining Room. 
+![Joining Room](./Output/img1.png)
+## 📸 Live Code Editor.
+![Live Code Editor](./Output/img2.png)
+## 📸 Code Execution.
+![Code Execution](./Output/img3.png)
 
 ## ⚙️ Getting Started
 
